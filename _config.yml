@@ -1,7 +1,7 @@
 # Site settings
 title: Vagrant Host
 email: info@codingcoop.org
-description: "Enabling dynamic DNS configurations for Vagrant boxes."
+description: "A service which keeps DNS in sync with your Vagrantfile."
 baseurl: "/"
 url: "http://vagrant.host"
 
