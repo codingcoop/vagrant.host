@@ -1,0 +1,14 @@
+# Site settings
+title: Vagrant Host
+email: info@codingcoop.org
+description: "Enabling dynamic DNS configurations for Vagrant boxes."
+baseurl: "/"
+url: "http://vagrant.host"
+
+author:
+  name: "The Coding Cooperative"
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
+
